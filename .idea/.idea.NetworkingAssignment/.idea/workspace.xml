@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4263741a-7df1-4093-96cb-f650cca5ac12" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,7 @@
       <workItem from="1736935846352" duration="10170000" />
       <workItem from="1736948495182" duration="3573000" />
       <workItem from="1737208179061" duration="7441000" />
-      <workItem from="1737244118436" duration="2913000" />
+      <workItem from="1737244118436" duration="3699000" />
     </task>
     <servers />
   </component>
